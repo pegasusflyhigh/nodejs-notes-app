@@ -1,4 +1,4 @@
-# nodejs-notes-app
+# Note-taking application
 A command line interface(CLI) application to simulate a Note taking application built using Nodejs. It uses a third party node module - Yargs to parse command line arguments. This application allows the following operations:
 
 * Adding a Note
